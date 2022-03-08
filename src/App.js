@@ -2,8 +2,8 @@ import './App.css';
 
 import background from './background.jpeg';
 
-import Header from './components/Header/Header';
-import Footer from './components/Footer/Footer';
+import Header from './components/Header/Header.js';
+import Footer from './components/Footer/Footer.js';
 import Main from './components/Main/Main';
 
 function App() {

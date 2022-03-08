@@ -36,3 +36,12 @@
     transform: rotate(360deg);
   }
 }
+
+.App {
+  background-image: cover;
+  height: 400px;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
