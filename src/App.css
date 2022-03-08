@@ -38,10 +38,9 @@
 }
 
 .App {
-  background-image: cover;
-  height: 400px;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
+  /* background-image: cover; */
+  background-repeat: no-repeat;
+  /* height: 100%;
+  width: 100%; */
   background-size: cover;
 }
