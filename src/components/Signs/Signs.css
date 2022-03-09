@@ -16,8 +16,7 @@
 }
 
 img {
-  /* height: 100vh; */
-}
-
-.name {
+  height: 20vh;
+  width: 5vw;
+  margin: auto;
 }
