@@ -29,7 +29,7 @@ export const zodiac = [
   },
   {
     name: 'Pisces',
-    dates: 'Fab 19 - Mar 20',
+    dates: 'Feb 19 - Mar 20',
   },
   {
     name: 'Sagittarius',
