@@ -5,7 +5,7 @@ import Signs from '../Signs/Signs';
 
 export default function Main() {
   return (
-    <main>
+    <main className="maindiv">
       {zodiac.map((item) => (
         <Signs key={item.name} name={item.name} dates={item.dates} />
       ))}

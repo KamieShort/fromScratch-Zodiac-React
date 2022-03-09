@@ -1,6 +1,6 @@
 import './App.css';
 
-import background from './background.jpeg';
+import background from './background.jpg';
 
 import Header from './components/Header/Header.js';
 import Footer from './components/Footer/Footer.js';

@@ -1,50 +1,50 @@
 export const zodiac = [
   {
-    name: 'aquarius',
+    name: 'Aquarius',
     dates: 'Jan 21 - Feb 19',
   },
   {
-    name: 'aries',
+    name: 'Aries',
     dates: 'Mar 21 - Apr 19',
   },
   {
-    name: 'cancer',
+    name: 'Cancer',
     dates: 'Jun 21 - Jul 22',
   },
   {
-    name: 'capricorn',
+    name: 'Capricorn',
     dates: 'Dec 22 - Feb 19',
   },
   {
-    name: 'gemini',
+    name: 'Gemini',
     dates: 'May 21 - Jun 20',
   },
   {
-    name: 'leo',
+    name: 'Leo',
     dates: 'Jul 23 - Aug 22',
   },
   {
-    name: 'libra',
+    name: 'Libra',
     dates: 'Sept 23 - Oct 22',
   },
   {
-    name: 'pisces',
+    name: 'Pisces',
     dates: 'Fab 19 - Mar 20',
   },
   {
-    name: 'sagittarius',
+    name: 'Sagittarius',
     dates: 'Nov 22 - Dec 21',
   },
   {
-    name: 'scorpio',
+    name: 'Scorpio',
     dates: 'Oct 23 - Nov 21',
   },
   {
-    name: 'taurus',
+    name: 'Taurus',
     dates: 'Apr 20 - May 20',
   },
   {
-    name: 'virgo',
+    name: 'Virgo',
     dates: 'Aug 23 - Sep 22',
   },
 ];

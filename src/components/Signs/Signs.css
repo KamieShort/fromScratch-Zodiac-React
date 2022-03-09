@@ -1,0 +1,11 @@
+.signs {
+  font-family: 'Courier New', Courier, monospace;
+  color: whitesmoke;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  height: 100%;
+  margin-right: 30px;
+  margin-left: 50px;
+}
