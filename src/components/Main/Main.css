@@ -1,0 +1,18 @@
+
+
+.maindiv {
+  font-family: 'Courier New', Courier, monospace;
+  color: whitesmoke;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  justify-content: space-evenly;
+  background-size: cover;
+  height: 94vh;
+  margin-bottom: 0;
+  column-gap: 5vw;
+  /* -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover; */
+}
